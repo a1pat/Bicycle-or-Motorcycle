@@ -42,9 +42,9 @@ The following files are in the root folder:
 
 1.	The image classification model had a test accuracy of 0.85.
 2.	The Step Function indicates success when the prediction probability meets or exceeds the threshold (set at 0.93) with all three Lambda functions with green status, as shown below:
-![success](https://github.com/a1pat/Bicycle-or-Motorcycle/edit/main/step_function_success.png)
+![success](https://github.com/a1pat/Bicycle-or-Motorcycle/blob/main/step_function_success.png)
 3.	The Step Function fails when the prediction probability does not meet the threshold with the third Lambda function having a Red completion status as shown below:
-![fail](https://github.com/a1pat/Bicycle-or-Motorcycle/edit/main/step_function_fail.jpg)
+![fail](https://github.com/a1pat/Bicycle-or-Motorcycle/blob/main/step_function_fail.jpg)
 
 
 
