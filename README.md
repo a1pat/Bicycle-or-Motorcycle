@@ -19,7 +19,7 @@ The company seeks to automate its process by identifying whether a driver has ar
 1. Build an image classification model that differentiates between bicycles and motorcycles;
 2. Deploy the model for inference using AWS Lambda functions and AWS Step functions.
 
-## Files<a name="file_descriptions"></a>
+## File Descriptions<a name="file_descriptions"></a> ##
 The following files are in the root folder:
 + **starter**: Jupyter notebook
 + **lambda.py**: code for the three AWS Lambda functions
