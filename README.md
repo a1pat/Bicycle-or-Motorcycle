@@ -48,7 +48,7 @@ The following files are in the root folder:
 The [cifar-100 dataset](#https://www.cs.toronto.edu/~kriz/cifar.html) contains labeled images of 100 classes of objects. A subset containing images of bicycles and motorcycles was used to train train and test the image-classification model.
   
   
-## Packages<a name="packages></a> ##
+## Packages<a name="packages"></a> ##
 
 1. [base64](https://docs.python.org/3/library/base64.html)
 2. [boto3](https://pypi.org/project/boto3/)
