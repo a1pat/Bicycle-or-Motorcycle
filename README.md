@@ -45,7 +45,7 @@ The following files are in the root folder:
 
 
 ## Dataset<a name="dataset"></a> ##
-The [cifar-100 dataset](#https://www.cs.toronto.edu/~kriz/cifar.html) contains labeled images of 100 classes of objects. A subset containing images of bicycles and motorcycles was used to train train and test the image-classification model.
+The [cifar-100 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) contains labeled images of 100 classes of objects. A subset containing images of bicycles and motorcycles was used to train train and test the image-classification model.
   
   
 ## Packages<a name="packages"></a> ##
