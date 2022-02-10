@@ -8,8 +8,7 @@ An imaage-classification project for the Udacity AWS Machine Learning Nanodegree
 4. [Results](#results)
 5. [Dataset](#dataset)
 6. [Packages](#packages)
-7. [License](#license)
-8. [Author](#author)
+7. [Author](#author)
 
 ## Overview<a name="overview"></a> ##
 This is a project in Udacity’s AWS Machine Learning Engineer Nanodegree geared towards building an ML workflow.
@@ -65,8 +64,6 @@ The [cifar-100 dataset](#https://www.cs.toronto.edu/~kriz/cifar.html) contains l
 12. [sagemaker](https://pypi.org/project/sagemaker/)
 13. [tarfile](https://docs.python.org/3/library/tarfile.html)
 
-
-## License<a name="license"></a> ##
 
 
 
