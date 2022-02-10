@@ -32,7 +32,7 @@ The following files are in the root folder:
 
 
 
-## Results<a name="results></a> ##
+## Results<a name="results"></a> ##
 
 1.	The image classification model had a test accuracy of 0.85.
 2.	The Step Function indicates success when the prediction probability meets or exceeds the threshold (set at 0.93) with all three Lambda functions with green status, as shown below:
