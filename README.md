@@ -21,8 +21,14 @@ The company seeks to automate its process by identifying whether a driver has ar
 
 ## File Descriptions<a name="file_descriptions"></a> ##
 The following files are in the root folder:
-+ **starter**: Jupyter notebook
 + **lambda.py**: code for the three AWS Lambda functions
++ **starter.ipynb**: Jupyter notebook
++ **step_function_definition.json**: state machine description
++ **step_function_fail.png**: screen clip of unsuccessful step function execution
++ **step_function_monitor.png**: image file of model inference versus threshold for some test images
++ **step_function_success.png**: screen clip of successful step function execution
+
+
 
 ## Instructions<a name="instructions"></a> ##
 1.	Knowledge of and an account on AWS Sagemaker are prerequisites;
