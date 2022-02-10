@@ -1,5 +1,5 @@
 # Bicycle-or-Motorcycle? #
-An imaage-classification project for the Udacity AWS Machine Learning Nanodegree
+An image-classification project for Udacity's AWS Machine Learning Nanodegree.
 
 ## Table of Contents ##
 1. [Overview](#overview)
