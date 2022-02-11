@@ -46,7 +46,7 @@ The following files are in the root folder:
 3.	The Step Function fails when the prediction probability does not meet the threshold with the third Lambda function having a Red completion status as shown below:
 ![fail](https://github.com/a1pat/Bicycle-or-Motorcycle/blob/main/step_function_fail.png)
 4.  The following chart shows the prediction probability for a randomly selected set of test images against the threshold. The dotted green line is the acceptance threshold. Blue dots represent images classified with a probability above the acceptance threshold. The red dot represents an image classified with probability below the acceptance threshold:
-5.  
+
 ![monitor](https://github.com/a1pat/Bicycle-or-Motorcycle/blob/main/step_function_monitor.png)
 
 
