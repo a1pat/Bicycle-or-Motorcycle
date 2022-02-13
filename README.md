@@ -48,6 +48,13 @@ The following files are in the root folder:
 4.  The following chart shows the prediction probability for a randomly selected set of test images against the threshold. The dotted green line is the acceptance threshold. Blue dots represent images classified with a probability above the acceptance threshold. The red dot represents an image classified with probability below the acceptance threshold:
 
 ![monitor](https://github.com/a1pat/Bicycle-or-Motorcycle/blob/main/step_function_monitor.png)
+5. The chart below shows that:
+  a. Most inferences are greater than 0.5 (above the dotted black line), i.e., motorcycle. Most of these inferences have a confidence level above the threshold (bar is above the dotted green line);
+  b. Three inferences are below the dotted black line, i.e., bicycle. Of the three, two have a confidence level below the threshold (bar is above the dotted red line);
+  c. Two inferences have a bar very close to the dotted black line - the model does not have any opinion on whether the vehicle is a bicycle or motorcycle.
+![custon_visualization](https://github.com/a1pat/Bicycle-or-Motorcycle/blob/main/step_function_custom_visualization.png)
+A larger sample should be obtained (more test inferences should be run) to determine if the model is when it comes to identifying bicycles.
+
 
 
 
